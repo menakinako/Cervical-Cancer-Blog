@@ -1,0 +1,21 @@
+.container{
+    margin: 10px;
+}
+.card{
+    margin-top: 50px;
+   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);;
+}
+
+.latest{
+    display: inline-flex;
+    
+}
+
+.separate{
+    margin-top: 20px;
+}
+.lb{
+    display: flex;
+    justify-content: end;
+}
+

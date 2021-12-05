@@ -1,0 +1,17 @@
+.body{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(241, 241, 241);
+}
+
+.left{
+    width: 70%;
+    color: aqua;
+    display: block;
+}
+
+.right{
+    width: 30%;
+    display: block;
+   
+}
